@@ -1,3 +1,5 @@
+solution write-up is at: https://www.kaggle.com/c/gendered-pronoun-resolution/discussion/90334
+
 ## File descriptions
 
 * `Step1_preprocessing.ipynb` given [dev, test, val, stage2] input tsv files, generate augmented tsv; extract bert features jsons, distance features, and linguistic features, saved to Drive
